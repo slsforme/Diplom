@@ -1,0 +1,6 @@
+[submodule "mobile/PrirodaRazumaMobile"]
+	path = mobile/PrirodaRazumaMobile
+	url = https://github.com/slsforme/prirodaRazumaMobileApp.git
+[submodule "web"]
+	path = web
+	url = https://github.com/slsforme/prirodaRazumaSoftwareSystem.git
