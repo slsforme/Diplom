@@ -1,6 +1,6 @@
 # https://prirodarazumadev.ru/
 
-Для правильно работы обоих приложений рекомендуется копировать с Github.
+Для правильной работы обоих приложений рекомендуется копировать с Github.
 
 Как это сделать?
 1. Установить git - https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
@@ -14,7 +14,7 @@
 login: **admin123**
 password: **admin123**
 
-Базовые данные для входа за админа:
+Базовые данные для входа за педагога:
 login: **login123**
 password: **login123**
 
